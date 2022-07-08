@@ -12,7 +12,7 @@ function Navbar() {
     <nav className="navbar">
        <div className="navbar-container">
         <Link to="/" className="navbar-logo">
-            <img src="./image/logo.png" alt="icon"/>
+            <img src="portfolio/public/image/logo.png" alt="icon"/>
         </Link>
         <div className="icon-menu" onClick={handleClick}>
             <i className={click ? 'fas fa-times' : 'fas fa-bars'} />
