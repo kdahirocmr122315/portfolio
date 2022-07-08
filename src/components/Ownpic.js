@@ -6,10 +6,10 @@ function Ownpic() {
   return (
     <div className='owncontainer'>
         <div class="cover">
-            <img src="/image/com.png" alt="select" />
+            <img src="portfolio/public/image/com.png" alt="select" />
         </div>
         <div class="coverpic">
-            <img src="/image/mainbg.png" alt="select" />
+            <img src="portfolio/public/image/mainbg.png" alt="select" />
         </div>
         <h1 >
             <span className='outline' data-text="Kobe Christian L. Dahiroc">Kobe Christian L. Dahiroc</span>
